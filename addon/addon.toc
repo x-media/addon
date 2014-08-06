@@ -1,7 +1,7 @@
 ## Interface: 60000
 ## Title: addon
 ## Version: 0
-## Author: Merith
+## Author: x-media
 ## X-oUF: addonUnitFrames
 ## SavedVariables: addon
 ## SavedVariablesPerCharacter: addonPlayer
