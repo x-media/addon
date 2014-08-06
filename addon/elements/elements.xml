@@ -1,3 +1,7 @@
 <ui xmlns="http://www.blizzard.com/wow/ui/">
+	<!-- frames -->
 	<Script file="ui_frames\frames.lua" />
+
+	<!-- misc -->
+	<Script file="ui_misc\experience.lua" />
 </ui>
