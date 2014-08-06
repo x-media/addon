@@ -1,0 +1,12 @@
+## Interface: 60000
+## Title: addon
+## Version: 0
+## Author: Merith
+## X-oUF: addonUnitFrames
+## SavedVariables: addon
+## SavedVariablesPerCharacter: addonPlayer
+
+engine/engine.lua
+engine/config.lua
+libs/libs.xml
+engine/func/func.xml

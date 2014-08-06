@@ -1,0 +1,9 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="func_Media.lua" />
+	<Script file="func_API.lua" />
+	<Script file="func_Core.lua" />
+	<Script file="func_Font.lua" />
+	<Script file="func_ActionBars.lua" />
+	<Script file="func_UnitFrames.lua" />
+	<Script file="func_Skin.lua" />
+</Ui>
